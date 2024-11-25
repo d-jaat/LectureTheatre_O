@@ -1,2 +1,1 @@
-# LectureTheatre_O
-lecture theatre online 
+# rag-tutorial-v2
